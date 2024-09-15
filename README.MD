@@ -1,10 +1,10 @@
 <h2><div style="font-family: Trebuchet MS; background-color: #1b191d; color: #FFFFFF; padding: 12px; font-size: 35px; line-height: 1.5;text-align: center; line-height: 1.;">🅶🆄 🆁🅰🅽🅽🅰 🅶🅾🆄🅳🅰--🅳🅰🆃🅰🆂🅲🅸🅴🅽🆃 👨‍💻</div> 
 
 
-# Python Full Stack Development
+# Python Full Stack Development.
 
 
-## **🎓 Course Information**
+## **🎓 Course Information** 
 
 - **Subject Code** : 
 - **Faculty**: Mr Guranna Gouda  (Assistant Professor)
@@ -137,3 +137,27 @@ Hint:-Use Flask Frame Work With Python
 |71|Language Exchange Platform|
 |72|Personal Development Planner|
 
+## List Operations:
+- 1.Given a list of numbers, find the sum of all the elements.
+- 2.Remove duplicates from a list.
+- 3.Sort a list of strings in alphabetical order.
+- 4.Given two lists, find common elements between them.
+- 5.Reverse a list without using built-in functions.
+## Tuple Operations:
+- 1.Given a tuple of integers, find the minimum and maximum elements.
+- 2.Check if an element exists in a tuple.
+- 3.Concatenate two tuples.
+- 4.Count the occurrences of a particular element in a tuple.
+- 5.Convert a tuple to a list.
+## Set Operations:
+- 1.Given two sets, find the union, intersection, and difference.
+- 2.Check if one set is a subset of another.
+- 3.Add elements to a set.
+- 4.Remove elements from a set.
+- 5.Find the symmetric difference between two sets.
+## Dictionary Operations:
+- 1.Create a dictionary of student names and their corresponding grades.
+- 2.Check if a key exists in the dictionary.
+- 3.Update the value of a specific key in the dictionary.
+- 4.Remove a key-value pair from the dictionary.
+- 5.Find the length of the dictionary.
